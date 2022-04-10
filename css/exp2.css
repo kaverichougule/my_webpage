@@ -1,0 +1,69 @@
+.box4{
+	background-image: url("E:/WebDev/IMAGES/pattern4.jpg");
+	background-position: center;
+  	background-repeat: no-repeat;
+	margin-top: -2.55%;
+	text-align: center;
+}
+
+.box4_h3{
+	font-size: 40px;
+	color: white;
+	border-bottom:5px solid white;
+	margin-left: 35%;
+	margin-right: 35%;
+	
+}
+.box4_p{
+	color: white;
+	font-size: 30px;
+}
+.box4_form input{
+	width: 30%;
+	height: 50px;
+	font-size: 20px;
+	text-align: center;
+}
+.btn1{
+	height: 50px;
+	width: 110px;
+	margin-top: 30px;
+	font-size: 20px;
+	background-color: blue;
+	color: white;
+
+}
+.btn2{
+	height: 50px;
+	width: 110px;
+	margin-top: 10px;
+	font-size: 20px;
+	background-color: blue;
+	color: white;
+
+}
+.box5{
+	background-image: url("E:/WebDev/IMAGES/background6.jpg");
+	background-position: center;
+  	background-repeat: no-repeat;
+	text-align:center; 	
+	
+}
+.box5_table{
+	width: 400px;
+
+}
+.box5_table{
+	font-size: 40px;
+}
+
+.box5_table li{
+	list-style: none;
+	font-size: 25px;
+	overflow: hidden;
+	color: black;
+}
+.box5_table a img{
+	width: 45px;
+	height: 45px;
+}
